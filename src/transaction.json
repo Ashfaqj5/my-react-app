@@ -1,0 +1,94 @@
+[
+  {
+    "id": "T1628899200000-1628349423285",
+    "date": 1628899200000,
+    "kind": "EXPENSE",
+    "note": "Transferred",
+    "tags": [
+      "Transfer to Y"
+    ],
+    "accountId": "A1628346140968",
+    "amount": -500000,
+    "currency": "INR",
+    "accountName": "Bank Balance"
+  },
+  {
+    "id": "T1628726400000-1628349457188",
+    "date": 1628726400000,
+    "kind": "INCOME",
+    "note": "Salary",
+    "tags": [
+      "Salary"
+    ],
+    "accountId": "A1628346140968",
+    "amount": 2000000,
+    "currency": "INR",
+    "accountName": "Bank Balance"
+  },
+  {
+    "id": "T1628294400000-1628349247635",
+    "date": 1628294400000,
+    "kind": "TRANSFER",
+    "note": "Monthly",
+    "accountId": "A1628346140968",
+    "amount": 200000,
+    "currency": "INR",
+    "linkedAccountId": "A1628346109014",
+    "linkedAmount": 200000,
+    "linkedCurrency": "INR",
+    "accountName": "Bank Balance",
+    "linkedAccountName": "Pocket Amount"
+  },
+  {
+    "id": "T1628294400000-1628349235559",
+    "date": 1628294400000,
+    "kind": "EXPENSE",
+    "note": "Burger",
+    "tags": [
+      "Food"
+    ],
+    "accountId": "A1628346109014",
+    "amount": -20000,
+    "currency": "INR",
+    "accountName": "Pocket Amount"
+  },
+  {
+    "id": "T1628294400000-1628349215529",
+    "date": 1628294400000,
+    "kind": "EXPENSE",
+    "note": "Withdrawl from ATM",
+    "tags": [
+      "Withdrawl"
+    ],
+    "accountId": "A1628346140968",
+    "amount": -200000,
+    "currency": "INR",
+    "accountName": "Bank Balance"
+  },
+  {
+    "id": "T1628294400000-1628349078962",
+    "date": 1628294400000,
+    "kind": "INCOME",
+    "note": "My Pocket",
+    "tags": [
+      "My Pocket"
+    ],
+    "accountId": "A1628346109014",
+    "amount": 10000,
+    "currency": "INR",
+    "accountName": "Pocket Amount"
+  },
+  {
+    "id": "T1628294400000-1628349035866",
+    "date": 1628294400000,
+    "kind": "INCOME",
+    "note": "Deposit",
+    "tags": [
+      "Deposit"
+    ],
+    "accountId": "A1628346140968",
+    "amount": 100000,
+    "currency": "INR",
+    "accountName": "Bank Balance"
+  }
+]
